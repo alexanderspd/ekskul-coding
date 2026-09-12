@@ -1,6 +1,6 @@
 # 💻 Ekskul Coding
 
-Selamat datang di repository **Ekskul Coding**! 🎉
+Selamat datang di repository **Ekskul Coding***! 🎉
 
 Repository ini digunakan sebagai tempat untuk menyimpan materi, latihan, tugas, dan berbagai project yang dibuat selama kegiatan ekstrakurikuler coding.
 
